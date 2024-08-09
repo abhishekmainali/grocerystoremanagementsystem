@@ -1,0 +1,8 @@
+*cls*cls
+*cls*cls
+*cls*cls
+*cls* cls
+*abhishek mainali*cls
+*abhishek mainali abhishekmaianli22@gmail.com*nandita@123
+*cd "c:\Users\Maina\OneDrive\Documents\c . c++\c++\headerfile\" ; if ($?) { g++ myheader.h -o myheader } ; if ($?) { .\myheader }*abhishek
+*abhishek@mail.com*1234
